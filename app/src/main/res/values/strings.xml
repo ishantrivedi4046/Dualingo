@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dualingo</string>
+    <string name="name">Number</string>
+    <string name="Family">Family</string>
+    <string name="colors">Colors</string>
+    <string name="Phrases">Phrases</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
